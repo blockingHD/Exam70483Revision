@@ -1,0 +1,6 @@
+C:\Dev\PersonalProjects\Exam 70-483\Parallel Library\bin\Debug\Parallel Library.dll
+C:\Dev\PersonalProjects\Exam 70-483\Parallel Library\bin\Debug\Parallel Library.pdb
+C:\Dev\PersonalProjects\Exam 70-483\Parallel Library\obj\Debug\Parallel Library.csprojAssemblyReference.cache
+C:\Dev\PersonalProjects\Exam 70-483\Parallel Library\obj\Debug\Parallel Library.csproj.CoreCompileInputs.cache
+C:\Dev\PersonalProjects\Exam 70-483\Parallel Library\obj\Debug\Parallel Library.dll
+C:\Dev\PersonalProjects\Exam 70-483\Parallel Library\obj\Debug\Parallel Library.pdb

@@ -1,0 +1,16 @@
+C:\Dev\PersonalProjects\Exam 70-483\Verification\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Dev\PersonalProjects\Exam 70-483\Verification\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Dev\PersonalProjects\Exam 70-483\Verification\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Dev\PersonalProjects\Exam 70-483\Verification\bin\Debug\Verification.dll
+C:\Dev\PersonalProjects\Exam 70-483\Verification\bin\Debug\Verification.pdb
+C:\Dev\PersonalProjects\Exam 70-483\Verification\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Dev\PersonalProjects\Exam 70-483\Verification\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Dev\PersonalProjects\Exam 70-483\Verification\bin\Debug\Parallel Library.dll
+C:\Dev\PersonalProjects\Exam 70-483\Verification\bin\Debug\Parallel Library.pdb
+C:\Dev\PersonalProjects\Exam 70-483\Verification\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Dev\PersonalProjects\Exam 70-483\Verification\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Dev\PersonalProjects\Exam 70-483\Verification\obj\Debug\Verification.csprojAssemblyReference.cache
+C:\Dev\PersonalProjects\Exam 70-483\Verification\obj\Debug\Verification.csproj.CoreCompileInputs.cache
+C:\Dev\PersonalProjects\Exam 70-483\Verification\obj\Debug\Verification.csproj.CopyComplete
+C:\Dev\PersonalProjects\Exam 70-483\Verification\obj\Debug\Verification.dll
+C:\Dev\PersonalProjects\Exam 70-483\Verification\obj\Debug\Verification.pdb

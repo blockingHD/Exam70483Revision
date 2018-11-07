@@ -1,0 +1,34 @@
+{
+  "Name": "Exam 70-483",
+  "Chapters": [
+    {
+      "Name": "Implement program flow",
+      "Components": [
+        {
+          "Name": "The task parallel library"
+        },
+        {
+          "Name": "Parallel LINQ"
+        },
+        {
+          "Name": "Tasks"
+        },
+        {
+          "Name": "Continuation Tasks"
+        },
+        {
+          "Name": "Threads and Thread pool"
+        },
+        {
+          "Name": "Tasks and the UI"
+        },
+        {
+          "Name": "Using async and await"
+        },
+        {
+          "Name": "Using Concurrent collections" 
+        }
+      ]
+    }
+  ]
+}
